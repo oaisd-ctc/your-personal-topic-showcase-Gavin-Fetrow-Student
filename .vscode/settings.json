@@ -4,14 +4,14 @@
         "comments": false,
         "strings": false
     },
-    "editor.wordBasedSuggestions": false,
-    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": "allDocuments",
+    "editor.suggestOnTriggerCharacters": true,
     "editor.parameterHints.enabled": false,
-    "editor.hover.enabled": false,
+    "editor.hover.enabled": true,
     "editor.inlineSuggest.enabled": false,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "emmet.includeLanguages": {},
     "emmet.showExpandedAbbreviation": "never",
     "emmet.triggerExpansionOnTab": false,
-    "emmet.extensionsPath": null
+    "emmet.extensionsPath": []
 }
